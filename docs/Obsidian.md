@@ -1,1 +1,1 @@
-The note taking tool used to do all of this.
+Obsidian is a note-taking tool that is used to write this repository.
