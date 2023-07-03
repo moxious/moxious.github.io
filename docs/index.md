@@ -2,7 +2,7 @@
 
 Publish your public notes with MkDocs
 
-## Hello World!
+## Hello World! (Obsidian)
 
 The `index.md` in the `/docs` folder is the homepage you see here.
 
