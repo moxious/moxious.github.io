@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Moxious Community Notes
 
 theme:
     name: 'material'
@@ -51,7 +51,6 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
-
 
 extra_javascript:
   - javascripts/mathjax.js
