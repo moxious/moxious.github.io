@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e1c0f86e4f2aed87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How do Communities Form?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e88968588b5f3a31",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "How do Communities Form?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "How do Communities Form?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "How do Communities Form?.md"
               }
             }
           }
@@ -158,11 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fda0e6b825633c2d",
+  "active": "e1c0f86e4f2aed87",
   "lastOpenFiles": [
     "index.md",
+    "How do Communities Form?.md",
+    "What is Community?.md",
+    "Obsidian.md",
     "Braindump and TODO.md",
-    "Bibliography.md",
-    "Obsidian.md"
+    "Bibliography.md"
   ]
 }

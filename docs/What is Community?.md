@@ -1,0 +1,7 @@
+Communities are simply groups of individuals who share interests, values, or goals and interact with one another.  Put quite simply: it is the result of groups of people participating in voluntary association.  There is little else that constrains what a community can be. While they can be defined by location, identity, or purpose, they do not have to meet any other criteria to be a community other than voluntary participation on the part of their members.
+
+Communities are everywhere though, because they provide a sense of belonging, support, and connection. They are not an add-on to the experience of being a human being, but core to it, and something that homo sapiens have done naturally since we evolved.
+
+> It might have pleased the great Creator to have made man independent of all other beings; but as dependence is one of the strongest bonds of society, mankind were made dependent on each other for protection and security, as they thereby enjoy better opportunities of fulfilling the duties of reciprocal love and friendship. Thus was man formed for social and active life.
+
+Communities are an essential part of human social organization. They create cohesion, cooperation, mutual support, and identity among their members, as we will see.
