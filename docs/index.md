@@ -2,8 +2,8 @@
 
 This will be an evolving set of notes about community.
 
-1. [[What is Community?]]
-2. [[How do Communities Form?]]
+1. [[What is Community]]?
+2. [[How do Communities Form]]?
 
 ## Meta
 

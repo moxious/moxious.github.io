@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How do Communities Form?.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How do Communities Form?.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How do Communities Form?.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How do Communities Form?.md"
+                "file": "index.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "e1c0f86e4f2aed87",
   "lastOpenFiles": [
+    "What is Community.md",
+    "How do Communities Form.md",
     "index.md",
-    "How do Communities Form?.md",
-    "What is Community?.md",
     "Obsidian.md",
     "Braindump and TODO.md",
     "Bibliography.md"
