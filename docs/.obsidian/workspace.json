@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "e1c0f86e4f2aed87",
+            "id": "5c9c1027c11171de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1c0f86e4f2aed87",
+  "active": "5c9c1027c11171de",
   "lastOpenFiles": [
+    "Obsidian.md",
+    "index.md",
+    "Anthropology.md",
     "What is Community.md",
     "How do Communities Form.md",
-    "index.md",
-    "Obsidian.md",
     "Braindump and TODO.md",
     "Bibliography.md"
   ]
